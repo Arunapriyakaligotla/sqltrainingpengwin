@@ -1,0 +1,1 @@
+SELECT * from employeeinfo WHERE designation IN ('Sales representative','Sales Manager');

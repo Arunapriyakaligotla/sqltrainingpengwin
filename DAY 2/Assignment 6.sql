@@ -1,0 +1,1 @@
+SELECT SUM(*) as total_emp from employeeinfo;

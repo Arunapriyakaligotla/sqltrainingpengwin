@@ -1,0 +1,1 @@
+SELECT * FROM  Suppliers where EXISTS (SELECT 1 from orders where suppliers.supplier_id = orders.supplier_id);

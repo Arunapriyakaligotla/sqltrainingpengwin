@@ -1,0 +1,1 @@
+SELECT UCASE(product name) from products; 

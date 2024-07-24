@@ -1,0 +1,1 @@
+SELECT * from epmployeeinfo WHERE titleOfCourtesy is NOT 'Mr.';

@@ -1,0 +1,1 @@
+SELECT finalorder_id, FLOOR(price) from output; 

@@ -1,0 +1,1 @@
+SELECT * from epmployeeinfo WHERE employeedesignation = 'Sales representative' OR 'Sales Manager' AND city= 'London'; 

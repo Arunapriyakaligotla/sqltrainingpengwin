@@ -1,0 +1,1 @@
+SELECT * from employeeinfo WHERE firstname LIKE 'S%';

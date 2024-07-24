@@ -1,0 +1,1 @@
+SELECT product_name, unitprice from products order by product_name, unitprice DESC ;

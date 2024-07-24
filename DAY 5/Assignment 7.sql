@@ -1,0 +1,1 @@
+SELECT orderdate(DATE_FORMAT('YYYY/MM/dd')), order_id, order_name from orders;

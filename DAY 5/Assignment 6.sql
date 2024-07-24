@@ -1,0 +1,1 @@
+SELECT finalorder_id, CEIL(price) from output; 

@@ -1,0 +1,1 @@
+SELECT SUM(freight_price) from orders WHERE YEAR = '1996' and MONTH ='July';

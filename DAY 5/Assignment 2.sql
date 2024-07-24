@@ -1,0 +1,1 @@
+SELECT  RIGHT(product name, 3) from products; 
